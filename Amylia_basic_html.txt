@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title></title>
+
+</head>
+<body>
+	
+	<h1><center>My name is Nur Amylia Izzamira Binti Azizan</center></h1>
+    <font color="blue">
+    <p><i>I live in Alor Setar, Kedah</i></p>
+    <p><i>I love to reading a book and vacation</i></p>
+    <p><i>That's what I do during my leisure time</i></p>
+    <br1>
+    <font color="black">
+    <p><center><b>Hope I can share more about my biodata with you guys next time</b></center></p>
+    
+</body>
+</html>
